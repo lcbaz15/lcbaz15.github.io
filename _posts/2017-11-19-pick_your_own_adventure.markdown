@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Pick your own Adventure"
-date:       2017-11-19 18:29:48 +0000
+title:      "Pick Your Own Adventure"
+date:       2017-11-19 13:29:49 -0500
 permalink:  pick_your_own_adventure
 ---
 
