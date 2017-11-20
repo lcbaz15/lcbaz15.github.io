@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "#Free #Data"
+date:       2017-11-20 00:40:05 +0000
+permalink:  free_data
+---
+
+
+The importance of learning how to code is becoming more clear to me every single day. Sure, the promise of a nice cozy job at a tech company is appealing, but its really missing on a really important reason to know how to code. 
+
+Don't get me wrong--- I wanted to transition into the tech industry and so learning how to code/participating in a coding bootcamp gave me a leg up on my resume as someone whos background was not in tech. I am now working as a Customer Success Manager at a tech startup in San Francisco, so learning how to code and improving my technical skill is important to further my career. 
+
+This kind of argument seems straightforward enough, and its a practical decision too. But I can't stress how important it is to realize that, there is sooooo much information and data that one gets access to, once you start learning to code. Scraping my first website was such a game changer, and really altered my perception on what is possible in life. You don't have to be restricted to the info and data that is available to you online--- you have the ability to change from the way data looks and also, what kind of data you see. Data is inherently neutral, at a level that's closer to the truth of any matter. Because of this, data is manipulated every day by those who have the power to do so, and perhaps this data/truth is tainted. 
+
+What I'm realizing is that learning how to code allows you to live a more authentic life, because now, the world is made up of data that has its own inherent truth, and a coder is responsible to bringing the right data to light. Now more than ever, I think, its important to know where data comes from and have the technical skill to find the right and truthful data to stomp out false information. 
+
+#Free #Data
